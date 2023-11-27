@@ -41,8 +41,12 @@ nav a:hover {
     box-sizing: border-box;
     border: 2px solid #000000;
     border-radius: 10px;
+ }
+    .produtos li:hover {
+        border-color: #C78C19;
+    }
+    
 
-}
 
 
 .produtos h2 {
